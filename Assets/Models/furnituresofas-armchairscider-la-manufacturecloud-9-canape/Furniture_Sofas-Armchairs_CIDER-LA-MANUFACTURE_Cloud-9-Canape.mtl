@@ -1,0 +1,34 @@
+# material "Laiton"
+newmtl 5a847be7_971a_450d_a78a_5bc8e96eeb55
+illum 1
+Ka 0 0 0
+Kd 0.831373 0.678431 0.411765
+Ks 1 1 1
+Tf 1 1 1
+d 1
+Tr 0
+Ns 0.0675
+
+# material "Default Material"
+newmtl Default_Material
+illum 1
+Ka 0.792157 0.211765 0.0627451
+Kd 1 0 0
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+
+# material "Shake-Walnut"
+newmtl e75a1a35_d8d8_4ec8_85a7_1aac1f6be5a8
+illum 1
+Ka 0 0 0
+Kd 0.341176 0.317647 0.32549
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+map_Ka CIDER_Shake-Walnut.jpg
+map_Kd CIDER_Shake-Walnut.jpg
+
+

@@ -1,0 +1,41 @@
+# material "Glass"
+newmtl 17fb766a_9eb4_4006_be2e_b9b44ad7bfc5
+illum 1
+Ka 0 0 0
+Kd 0.901961 0.901961 0.901961
+Ks 0 0 0
+Tf 1 1 1
+d 0.5
+Tr 0.5
+
+# material "Black"
+newmtl 1c1eeac9_9493_4029_84e4_cdc33578df7d
+illum 1
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+
+# material "Glass Black"
+newmtl 40ffa522_20dc_45ce_ad2c_e258089e352d
+illum 1
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Tf 1 1 1
+d 0.501832
+Tr 0.498168
+
+# material "Default Material"
+newmtl Default_Material
+illum 1
+Ka 0.792157 0.211765 0.0627451
+Kd 1 0 0
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+
+
